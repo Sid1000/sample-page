@@ -1,0 +1,497 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  }
+  
+
+
+
+
+.home2{
+	height: calc(100vh - 80px);
+	display: inline-block;
+	align-items: center;
+	justify-content: center;
+	font-size: 3rem;
+  }
+  .reports,
+  .products,
+  .team,
+  .messages,
+  .support {
+	height: calc(100vh - 80px);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 3rem;
+  }
+  
+  .home2 .title{
+	  position: relative;
+	  width: 396px;
+	  height: 59px;
+	  left: 500px;
+	  top: 250px;
+  
+	  font-family: Roboto;
+	  font-style: normal;
+	  font-weight: normal;
+	  font-size: 70px;
+	  line-height: 59px;
+	  color: #00DCDC;
+  
+  }
+  
+  .home2 .needhelp{
+	position: absolute;
+	width: 59px;
+	height: 190px;
+	left: 1460px;
+	top: 200px;
+  
+	background:#175873;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+	border-style: none;
+	cursor: pointer;
+	color: white;
+  
+  }
+  .home2 #nh{
+	transform: rotate(-90deg);
+	font-size: 20px;
+	font-family: Roboto, sans-serif;
+  }
+  
+  .home2 .radiob{
+	margin-right: 500px;
+	display: inline;
+	
+  }
+  
+  .home2 .submithelpline{
+	position: absolute;
+	width: 80px;
+	height: 197px;
+	left: 1436px;
+	top: 400px;
+  
+	background:#0C1446;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+	border-style: none;
+	cursor: pointer;
+	color: white;
+	
+  }
+  .home2 .checkbox{
+	margin-right: 200px;
+	display: inline;
+	
+  
+  }
+  
+  .home2 .Sopts{
+	padding-top: 40px;
+  
+	display: inline-block;
+  }
+  .home2 .Sopts Button{
+	margin:0px 10px 0px 10px
+  }
+  .home2 .Sopts1 Button{
+	margin:0px 10px 0px 10px
+  }
+  .home2 .Sopts2 Button{
+	margin:0px 10px 0px 10px
+  }
+  .home2 .Sopts:active{
+	background-color: white;
+	color: #ff4500;
+  }
+  
+  
+  .home2 .go{
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 32px;
+	border-style: none;
+	width: 50%;
+	height: 10%;
+	margin-left: 450px;
+	margin-top: 50px;
+	border-radius: 10px;
+	
+  }
+  .home2 .if{
+	margin-left: 500px;
+	position: relative;
+	height: 400;
+	width: 600;;
+  
+  }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.reports,
+.products,
+.team,
+.messages,
+.support {
+  height: calc(100vh - 80px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
+.home{
+	height: calc(170vh - 80px);
+	display: inline;
+	align-items: center;
+	justify-content: center;
+	font-size: 3rem;
+  }
+  .home .Sopts{
+	padding-top: 40px;
+  
+	display: inline-block;
+  }
+  .home .Sopts Button{
+	margin:0px 30px 0px 30px
+  }
+  .home .Sopts1 Button{
+	margin:0px 30px 0px 30px
+  }
+  .home .Sopts2 Button{
+	margin:0px 30px 0px 30px
+  }
+* {
+  font-family: Open Sans;
+}
+
+section {
+  width: 100%;
+  display: inline-block;
+  background: #333;
+  height: 50vh;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.footer-distributed{
+	background: #eeeeee;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: bold 16px sans-serif;
+	padding: 55px 50px;
+}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right{
+	display: inline-block;
+	vertical-align: top;
+}
+
+/* Footer left */
+
+.footer-distributed .footer-left{
+	width: 40%;
+}
+
+/* The company logo */
+
+.footer-distributed h3{
+	color:  #000000;
+	font: normal 36px 'Open Sans', cursive;
+	margin: 0;
+}
+
+.footer-distributed h3 span{
+	color:  #1a73e8;
+}
+
+/* Footer links */
+
+.footer-distributed .footer-links{
+	color:  #000000;
+	margin: 20px 0 12px;
+	padding: 0;
+}
+
+.footer-distributed .footer-links a{
+	display:inline-block;
+	line-height: 1.8;
+  font-weight:400;
+	text-decoration: none;
+	color:  inherit;
+}
+
+.footer-distributed .footer-company-name{
+	color:  #222;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+}
+
+/* Footer Center */
+
+.footer-distributed .footer-center{
+	width: 35%;
+}
+
+.footer-distributed .footer-center i{
+	background-color:  #33383b;
+	color: #ffffff;
+	font-size: 25px;
+	width: 38px;
+	height: 38px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 42px;
+	margin: 10px 15px;
+	vertical-align: middle;
+}
+
+.footer-distributed .footer-center i.fa-envelope{
+	font-size: 17px;
+	line-height: 38px;
+}
+
+.footer-distributed .footer-center p{
+	display: inline-block;
+	color: #000000;
+  font-weight:400;
+	vertical-align: middle;
+	margin:0;
+}
+
+.footer-distributed .footer-center p span{
+	display:block;
+	font-weight: normal;
+	font-size:14px;
+	line-height:2;
+}
+
+.footer-distributed .footer-center p a{
+	color:  #1a73e8;
+	text-decoration: none;;
+}
+
+.footer-distributed .footer-links a:before {
+  content: "|";
+  font-weight:300;
+  font-size: 20px;
+  left: 0;
+  color: #000000;
+  display: inline-block;
+  padding-right: 5px;
+}
+
+.footer-distributed .footer-links .link-1:before {
+  content: none;
+}
+
+/* Footer Right */
+
+.footer-distributed .footer-right{
+	width: 20%;
+}
+
+.footer-distributed .footer-company-about{
+	line-height: 20px;
+	color:  #92999f;
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0;
+}
+
+.footer-distributed .footer-company-about span{
+	display: block;
+	color:  #000000;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.footer-distributed .footer-icons{
+	margin-top: 25px;
+}
+
+.footer-distributed .footer-icons a{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	cursor: pointer;
+	background-color:  #33383b;
+	border-radius: 2px;
+
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+
+	margin-right: 3px;
+	margin-bottom: 5px;
+}
+
+/* If you don't want the footer to be responsive, remove these media queries */
+
+@media (max-width: 880px) {
+
+	.footer-distributed{
+		font: bold 14px sans-serif;
+	}
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+	.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+
+}
+
+/* If you don't want the footer to be responsive, remove these media queries */
+
+@media (max-width: 880px) {
+
+	.footer-distributed{
+		font: bold 14px sans-serif;
+	}
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+	.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+
+}
+
+.home .ph{
+	 --input-width : 80%;
+	
+	}
+
+
+
+	#valueItemDrop .dropdown-menu {
+  padding: 0 10px;
+  top: 22px;
+  width: 100%;
+  box-shadow: none;
+  border-radius: none;
+}
+#valueItemDrop .checkbox label:before {
+content: "";
+display: inline-block;
+width: 16px;
+height: 16px;
+margin-right: 10px;
+position: absolute;
+left: 0;
+bottom: 4px;
+background-color: transparent;
+border: 1px solid #ccc;
+}
+
+#valueItemDrop .checkbox input[type=checkbox] {
+display: none;
+}
+
+#valueItemDrop .checkbox label {
+  padding-left: 25px;
+  font-weight: bold;
+}
+
+#valueItemDrop .checkbox label:before {
+  border: 1px solid #ccc;
+border-radius: 3px;
+}
+
+#valueItemDrop .checkbox input[type=checkbox]:checked + label:before {
+content: "\2714";
+font-size: 15px;
+color: #c8f308;
+text-align: center;
+line-height: 14px;
+padding: 0px;
+font-weight: normal;
+}
+
+#valueItemDrop .selectbox {
+  border-radius: 5px;
+  padding: 3px 5px;
+  width: 100%;
+  border: 1px solid #A4A4A4;
+  float: right;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+  
+  background-repeat: no-repeat;
+  background-position: 163px 8px;
+  background-color: rgb(255, 0, 0);
+}
+
+
+.grid button{
+  -webkit-appearance: button;
+    text-rendering: auto;
+    color: rgb(0, 0, 0);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: rgb(67, 180, 255);
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 11px system-ui;
+    padding: 1px 7px 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+    border-image: initial;
+}
+
+
+// @media screen and (min-width: 40em) {
+ 
+@media screen and (min-width: 500px) {
+  .Box {
+	width: 40%;
+	display: flex;
+    
+  }
+}
