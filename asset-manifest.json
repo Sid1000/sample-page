@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sample-page/static/css/main.9401db94.chunk.css",
+    "main.js": "/sample-page/static/js/main.d5c71bde.chunk.js",
+    "main.js.map": "/sample-page/static/js/main.d5c71bde.chunk.js.map",
+    "runtime-main.js": "/sample-page/static/js/runtime-main.410b924d.js",
+    "runtime-main.js.map": "/sample-page/static/js/runtime-main.410b924d.js.map",
+    "static/css/2.9d71a69d.chunk.css": "/sample-page/static/css/2.9d71a69d.chunk.css",
+    "static/js/2.07c6390d.chunk.js": "/sample-page/static/js/2.07c6390d.chunk.js",
+    "static/js/2.07c6390d.chunk.js.map": "/sample-page/static/js/2.07c6390d.chunk.js.map",
+    "index.html": "/sample-page/index.html",
+    "static/css/2.9d71a69d.chunk.css.map": "/sample-page/static/css/2.9d71a69d.chunk.css.map",
+    "static/css/main.9401db94.chunk.css.map": "/sample-page/static/css/main.9401db94.chunk.css.map",
+    "static/js/2.07c6390d.chunk.js.LICENSE.txt": "/sample-page/static/js/2.07c6390d.chunk.js.LICENSE.txt",
+    "static/media/aa.6fd70056.png": "/sample-page/static/media/aa.6fd70056.png",
+    "static/media/index.css": "/sample-page/static/media/aiga_down_arrow_bg.c0f9fa03.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.410b924d.js",
+    "static/css/2.9d71a69d.chunk.css",
+    "static/js/2.07c6390d.chunk.js",
+    "static/css/main.9401db94.chunk.css",
+    "static/js/main.d5c71bde.chunk.js"
+  ]
+}
